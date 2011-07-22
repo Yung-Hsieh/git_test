@@ -1,6 +1,0 @@
-this is c.txt
-hello~~
-
-add line4 in c.txty
-
-yooyooyoo
