@@ -1,3 +1,6 @@
 hihihi
+<<<<<<< HEAD
 
 i'm avenc
+=======
+>>>>>>> b877319... add avenc2.txt
