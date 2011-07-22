@@ -1,11 +1,5 @@
 hihihi
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 i'm avenc
-=======
->>>>>>> b877319... add avenc2.txt
-=======
 
 i'm avenc
->>>>>>> 5670e9a... edit avenc2.txt
